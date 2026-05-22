@@ -1,0 +1,6 @@
+{
+  "name": "敵人行動追蹤器",
+  "description": "這是一款桌遊輔助工具，用來追蹤四大敵人、菜鳥以及事件卡的行動與狀態，支援瀏覽器自動儲存與紀錄匯出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
